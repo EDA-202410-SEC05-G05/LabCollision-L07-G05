@@ -35,6 +35,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Juan Sebastian Coy, j.coy@uniandes.edu.co, 202220612
 [Back to top](#sample-collisions)
+2. Diego Bernal, da.bernalr1@unaindes.edu.co, 202011546
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
