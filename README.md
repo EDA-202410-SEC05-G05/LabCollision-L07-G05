@@ -33,10 +33,7 @@ This is the repository for the seventh laboratory. In here the students learn ho
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
-1. Student No. 2 Name, Student No. 2 Uniandes Email, Student No. 2 owned functionality.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
-
+1. Juan Sebastian Coy, j.coy@uniandes.edu.co, 202220612
 [Back to top](#sample-collisions)
 
 <!-- ABOUT THE PROJECT -->
